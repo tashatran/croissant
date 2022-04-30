@@ -7,11 +7,20 @@ img {
 body {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #faf5e4;
 }
 h1 {
   text-align: center;
+  color: #125b50;
 }
 
-.nav-links {
+a {
+  color: #ff6363;
+  text-decoration: none;
   margin-right: 30px;
+}
+
+a:visited {
+  color: #125b50;
+  text-decoration: none;
 }

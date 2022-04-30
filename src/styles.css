@@ -1,23 +1,31 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  background-color: #faf5e4;
 }
 
 h1 {
   text-align: center;
+  color: #125b50;
 }
 
-p {
+p .blurb {
   text-align: center;
+  padding: 30px;
 }
 
-.nav-links {
-  padding: 40px;
-  color: indianred;
+a {
+  color: #ff6363;
   text-decoration: none;
+  margin-right: 30px;
 }
 
 a:visited {
-  color: indianred;
+  color: #125b50;
   text-decoration: none;
+}
+
+.email {
+  margin: 0;
+  color: #ff6363;
 }
