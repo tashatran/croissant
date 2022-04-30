@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.nav-links {
+  padding: 40px;
+  color: indianred;
+  text-decoration: none;
+}
+
+a:visited {
+  color: indianred;
+  text-decoration: none;
+}
